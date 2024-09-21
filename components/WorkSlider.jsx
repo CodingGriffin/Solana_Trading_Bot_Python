@@ -24,8 +24,8 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "/zoh.jpg",
-          link: "https://zionroyal.com",
+          path: "/divvy.bet.jpg",
+          link: "https://divvy.bet/",
         },
         {
           title: "title",
@@ -43,19 +43,19 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "/hawkayes.jpg",
-          link: "https://www.hawkayes.com",
+          path: "/www.dramsky.io.jpg",
+          link: "http://www.dramsky.io",
         },
-        // {
-        //   title: "title",
-        //   path: "/Novathis.jpg",
-        //   link: "http://example.com",
-        // },
-        // {
-        //   title: "title",
-        //   path: "/zoh.jpg",
-        //   link: "http://example.com",
-        // },
+        {
+          title: "title",
+          path: "/wisewhales.xyz.jpg",
+          link: "https://wisewhales.xyz",
+        },
+        {
+          title: "title",
+          path: "/www.shreddedapes.io.jpg",
+          link: "http://www.shreddedapes.io",
+        },
       ],
     },
   ],

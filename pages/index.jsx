@@ -32,12 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Full Stack Developer skilled in blockchain development, specializing in secure
-            decentralized applications. Hands on experience in designing and
-            implementing blockchain solutions, smart contracts, and decentralized
-            systems. Familiar with tools like Hardhat, Remix, and web3.js for blockchain
-            development. Dedicated to advancing blockchain technology through
-            continuous learning and exploration.
+            Computer Science Master candidate actively doing research and development in theblockchain space with a focus on EVM, BSC, Polygon, Solana, Aptos, Sui and BTC. I have been involved in software development since a young age and has participated in the development of different DApps like NFT, DeFi, P2E games. I have strong business English and years of remote-working experience.
 
           </motion.p>
 

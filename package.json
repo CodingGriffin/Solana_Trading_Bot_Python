@@ -7,7 +7,7 @@
     "email": "sanidhya.verma12345@gmail.com",
     "url": "https://github.com/sanidhyy"
   },
-  "description": "Timo Lau is a Full-stack web developer with 10+ years of experience.",
+  "description": "Roy Lee is a Full-stack web developer with 10+ years of experience.",
   "keywords": [
     "react",
     "next",
@@ -52,6 +52,7 @@
   "dependencies": {
     "@next/font": "^13.4.4",
     "framer-motion": "^10.12.16",
+    "modern-portfolio": "file:",
     "next": "14.1.1",
     "react": "18.2.0",
     "react-countup": "^6.4.2",

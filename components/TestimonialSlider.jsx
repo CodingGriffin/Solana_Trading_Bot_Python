@@ -13,7 +13,7 @@ const testimonialData = [
     name: "Oleksandr (Alex) Danylenko",
     position: "Client",
     message:
-      "Timo is excellent developer and I recommending him highly. If I have another project, I'll work with him again and then I'll keep long-term partnership with him.",
+      "Roy is excellent developer and I recommending him highly. If I have another project, I'll work with him again and then I'll keep long-term partnership with him.",
   },
   {
     image: "/t-avt-5.png",

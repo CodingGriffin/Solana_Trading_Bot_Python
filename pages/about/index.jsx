@@ -29,6 +29,7 @@ import {
 import Avatar from "../../components/Avatar";
 import Circles from "../../components/Circles";
 import { fadeIn } from "../../variants";
+import Link from "next/link";
 
 //  data
 export const aboutData = [
@@ -64,8 +65,8 @@ export const aboutData = [
     title: "education",
     info: [
       {
-        title: "Bachelor's of CS University of Hamburg",
-        stage: "2014 - 2017",
+        title: "Bachelor's Degree in Computer Science",
+        stage: "2012 - 2016",
       },
       // {
       //   title: "Adobe Design Achievement Awards - Finalist",
@@ -77,21 +78,35 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "Front End Developer - Zignuts Technolab",
-        stage: "2016 - 2017",
+        title: "Fullstack Developer - ",
+        company: "Ubex Team",
+        stage: "2016 - 2018",
+        link: ""
       },
       {
-        title: "Full Stack Developer - Zignuts Technolab",
-        stage: "2017 - 2019",
+        title: "Ethereum Developer - ",
+        company: "Visor Finance",
+        stage: "2018 - 2021",
+        link: ""
       },
       {
-        title: "Blockchain Developer - Gnosis",
-        stage: "2019 - 2022",
+        title: "Solana Smart Contract Developer - ",
+        company: "Moduluc",
+        stage: "2021 - 2022",
+        link: "https://moduluc.com/"
       },
       {
-        title: "Senior Blockchain Developer - Systango (Remote)",
-        stage: "2022 - 2024",
-      },      
+        title: "Full Stack Solana Developer - ",
+        company: "HydraSwap",
+        stage: "2022 - 2023",
+        link: "https://hydraswap.io"
+      },
+      {
+        title: "Solana Web3 Developer - ",
+        company: "Blocksmith Labs",
+        stage: "2023 - 2024",
+        link: "https://blocksmithlabs.io/"
+      },
     ],
   },
   {
@@ -229,9 +244,17 @@ const About = () => {
               >
                 {/* title */}
                 <div className="font-light mb-2 md:mb-0">{item.title}</div>
+                <div>
+                  <Link           
+                      href={item.link ? item.link: ""}
+                      target="_blank"
+                      className="flex items-center gap-x-2 text-[20px] color-[green]"
+                  >
+                      {item.company}
+                  </Link>
+                </div>
                 <div className="hidden md:flex">-</div>
                 <div>{item.stage}</div>
-
                 <div className="flex gap-x-4">
                   {/* icons */}
                   {item.icons?.map((Icon, iconI) => (
