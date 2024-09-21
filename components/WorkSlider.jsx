@@ -24,7 +24,7 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "/divvy.bet.jpg",
+          path: "/divvy.bet.JPG",
           link: "https://divvy.bet/",
         },
         {
@@ -38,22 +38,22 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/galileo.jpg",
+          path: "/galileo.JPG",
           link: "https://www.galileo-ft.com",
         },
         {
           title: "title",
-          path: "/www.dramsky.io.jpg",
+          path: "/www.dramsky.io.JPG",
           link: "http://www.dramsky.io",
         },
         {
           title: "title",
-          path: "/wisewhales.xyz.jpg",
+          path: "/wisewhales.xyz.JPG",
           link: "https://wisewhales.xyz",
         },
         {
           title: "title",
-          path: "/www.shreddedapes.io.jpg",
+          path: "/www.shreddedapes.io.JPG",
           link: "http://www.shreddedapes.io",
         },
       ],
