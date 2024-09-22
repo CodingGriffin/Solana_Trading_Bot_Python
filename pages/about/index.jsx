@@ -110,7 +110,7 @@ export const aboutData = [
     ],
   },
   {
-    title: "credentials",
+    title: "certifications",
     info: [
       {
         title: "Bachelor's of Computer Science",
@@ -157,7 +157,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            7 years ago, I begin freelancing as a developer. Since then, I've
+            6 years ago, I begin freelancing as a developer. Since then, I've
             done remote work for agencies, consulted for startups, and
             collabrated on digital products for business and consumer use.
           </motion.p>
