@@ -110,7 +110,7 @@ export const aboutData = [
     ],
   },
   {
-    title: "certifications",
+    title: "Certifications",
     info: [
       {
         title: "Bachelor's of Computer Science",
