@@ -41,7 +41,7 @@ const testimonialData = [
     name: "Chris Pirillo",
     position: "Customer",
     message:
-      "As I am team leader, I think Timo has the senior developer's ability, and also he can lead an excellent team. I strongly recommend him!.",
+      "As I am team leader, I think Roy has the senior developer's ability, and also he can lead an excellent team. I strongly recommend him!.",
   },  
 ];
 
